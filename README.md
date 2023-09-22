@@ -1,4 +1,8 @@
-# m1p-MSU-FALL2023
+# My first scientific paper, MSU, FALL 2023
+
+[Main page course](https://m1p.org)
+
+[Old page course](http://www.machinelearning.ru/wiki/index.php?title=Численные_методы_обучения_по_прецедентам_%28практика%2C_В.В._Стрижов%29)
 
 # Results
 | Author | Problem | Links | Supervisor | Scores | Reviewer (+link to review)|
